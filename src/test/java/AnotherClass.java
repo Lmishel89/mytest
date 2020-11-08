@@ -5,7 +5,7 @@ public class AnotherClass {
         public void Add() {
             int a = 7;
             int d = 9;
-
+int f=7;
             System.out.println(a + d);
         }
     }
